@@ -10,3 +10,5 @@ Proyecto de participación en competencia de kaggle
 -Alejandro Valencia Gómez                   - c.c:1001386853               - Prg: Ingeniria Industrial
 ### video segunda entrega 
 https://youtu.be/CP10hh33bY4
+### video entrega final 
+https://youtu.be/xUFrntXyAuE
